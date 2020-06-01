@@ -1,0 +1,9 @@
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.search-bar input {
+  width: 100%;
+}

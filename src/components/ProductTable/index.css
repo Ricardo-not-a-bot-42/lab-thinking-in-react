@@ -1,0 +1,15 @@
+.product-table {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-table table {
+  width: 100%;
+  color: white;
+}
+
+.product-table thead {
+  background-color: grey;
+}
